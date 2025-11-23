@@ -36,7 +36,7 @@ As you add more projects, they can live in separate folders at this level (e.g. 
 1. **Clone the repo and enter the directory**:
 
    ```bash
-   git clone <your-repo-url> MLOps
+   git clone https://github.com/othmansalahi/MLOps MLOps
    cd MLOps
    ```
 
