@@ -6,6 +6,13 @@ scikit-learn
 # Experiment Tracking and Model Registry (MLOps Tool)
 mlflow
 
+# Visualization
+matplotlib
+seaborn
+plotly
+altair
+bokeh
+
 # Model Serving (e.g., if you want to deploy as a web service)
 # Choose one of these options:
 # fastapi
